@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 6eb08bfc0fd869c47b796c42ada099da
-PrefabImporter:
+guid: af3522bb469954e0695c83c0d21a2d9b
+DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 196526
   packageName: Starter Assets - Third Person Character Controller | URP
   packageVersion: 1.1.5
-  assetPath: Assets/DownloadedAssets/StarterAssets/Mobile/Prefabs/VirtualInputs/UI_Virtual_Joystick.prefab
+  assetPath: Assets/DownloadedAssets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
   uploadId: 592926
