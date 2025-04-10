@@ -41,6 +41,6 @@ The final part that I added was the music and sound effects. I added music for t
 
 [Watch on YouTube](https://www.youtube.com/watch?v=CufS2USIR1Y)
 
-## 🕹️ Play (Itch.io or WebGL Link)
+## 🕹️ Play
 
-[Play Here](https://ethanperello.itch.io/space-game)
+[Play Here](https://ethanperello.github.io/SpaceGame/)
